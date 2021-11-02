@@ -1,0 +1,681 @@
+[{
+  "_id": {
+    "$oid": "602d80c6f8ae6e237c09bf45"
+  },
+  "Branch": "CSE",
+  "Email_Id": "anikethkanugu@gmail.com",
+  "Intermediate_Percantage": 92.3,
+  "Mobile_No": 94411754525,
+  "Section": "B",
+  "Student_Name": "Aniketh Kanugu",
+  "Student_Roll_No": 245317831232,
+  "Resume_Link": "https://cutt.ly/1l3fg4v",
+  "first_sem_GPA": {
+    "$numberDecimal": "8.7"
+  },
+  "second_sem_GPA": {
+    "$numberDecimal": "7.9"
+  },
+  "third_sem_GPA": {
+    "$numberDecimal": "7.9"
+  },
+  "fourth_sem_GPA": {
+    "$numberDecimal": "7.7"
+  },
+  "fifth_sem_GPA": {
+    "$numberDecimal": "8"
+  },
+  "sixth_sem_GPA": {
+    "$numberDecimal": "8.2"
+  },
+  "tenth_CGPA": 7.8,
+  "Avg_present_GPA": 8.06,
+  "is_already_selected": false,
+  "languages": "python"
+},{
+  "_id": {
+    "$oid": "6033dce1af95412a2c9fd6f1"
+  },
+  "Branch": "CSE",
+  "Email_Id": "pranav@gmail.com",
+  "Intermediate_Percantage": 90.3,
+  "Mobile_No": 9441163238,
+  "Section": "B",
+  "Student_Name": "pranav",
+  "Student_Roll_No": 245317733002,
+  "Resume_Link": "https://cutt.ly/1l3fg4v",
+  "first_sem_GPA": {
+    "$numberDecimal": "8"
+  },
+  "second_sem_GPA": {
+    "$numberDecimal": "7"
+  },
+  "third_sem_GPA": {
+    "$numberDecimal": "6"
+  },
+  "fourth_sem_GPA": {
+    "$numberDecimal": "7"
+  },
+  "fifth_sem_GPA": {
+    "$numberDecimal": "6"
+  },
+  "sixth_sem_GPA": {
+    "$numberDecimal": "8.8"
+  },
+  "tenth_CGPA": 7.2,
+  "Avg_present_GPA": 7.13,
+  "is_already_selected": false,
+  "languages": "java"
+},{
+  "_id": {
+    "$oid": "6033dd01af95412a2c9fd6f2"
+  },
+  "Branch": "CSE",
+  "Email_Id": "vishal@gmail.com",
+  "Intermediate_Percantage": 92.3,
+  "Mobile_No": 9441163237,
+  "Section": "B",
+  "Student_Name": "vishal",
+  "Student_Roll_No": 245317733003,
+  "Resume_Link": "https://cutt.ly/1l3fg4v",
+  "first_sem_GPA": {
+    "$numberDecimal": "7"
+  },
+  "second_sem_GPA": {
+    "$numberDecimal": "9"
+  },
+  "third_sem_GPA": {
+    "$numberDecimal": "9"
+  },
+  "fourth_sem_GPA": {
+    "$numberDecimal": "7"
+  },
+  "fifth_sem_GPA": {
+    "$numberDecimal": "5"
+  },
+  "sixth_sem_GPA": {
+    "$numberDecimal": "8"
+  },
+  "tenth_CGPA": 6.5,
+  "Avg_present_GPA": 7.5,
+  "is_already_selected": false,
+  "languages": "c"
+},{
+  "_id": {
+    "$oid": "6033dd2baf95412a2c9fd6f3"
+  },
+  "Branch": "CSE",
+  "Email_Id": "harita@gmail.com",
+  "Intermediate_Percantage": 92.3,
+  "Mobile_No": 9441163236,
+  "Section": "C",
+  "Student_Name": "harita",
+  "Student_Roll_No": 245317733004,
+  "Resume_Link": "https://cutt.ly/1l3fg4v",
+  "first_sem_GPA": {
+    "$numberDecimal": "5.5"
+  },
+  "second_sem_GPA": {
+    "$numberDecimal": "6.7"
+  },
+  "third_sem_GPA": {
+    "$numberDecimal": "8.8"
+  },
+  "fourth_sem_GPA": {
+    "$numberDecimal": "6.2"
+  },
+  "fifth_sem_GPA": {
+    "$numberDecimal": "7"
+  },
+  "sixth_sem_GPA": {
+    "$numberDecimal": "7.9"
+  },
+  "tenth_CGPA": 10,
+  "Avg_present_GPA": 7.01,
+  "is_already_selected": true,
+  "languages": "c++"
+},{
+  "_id": {
+    "$oid": "6033dd4daf95412a2c9fd6f4"
+  },
+  "Branch": "CSE",
+  "Email_Id": "anil@gmail.com",
+  "Intermediate_Percantage": 94.3,
+  "Mobile_No": 9441163235,
+  "Section": "A",
+  "Student_Name": "anil",
+  "Student_Roll_No": 245317733005,
+  "Resume_Link": "https://cutt.ly/1l3fg4v",
+  "first_sem_GPA": {
+    "$numberDecimal": "6"
+  },
+  "second_sem_GPA": {
+    "$numberDecimal": "7"
+  },
+  "third_sem_GPA": {
+    "$numberDecimal": "9"
+  },
+  "fourth_sem_GPA": {
+    "$numberDecimal": "7"
+  },
+  "fifth_sem_GPA": {
+    "$numberDecimal": "6"
+  },
+  "sixth_sem_GPA": {
+    "$numberDecimal": "8.2"
+  },
+  "tenth_CGPA": 9,
+  "Avg_present_GPA": 7.2,
+  "is_already_selected": true,
+  "languages": "java"
+},{
+  "_id": {
+    "$oid": "6033dd68af95412a2c9fd6f5"
+  },
+  "Branch": "CSE",
+  "Email_Id": "nick@gmail.com",
+  "Intermediate_Percantage": 50.3,
+  "Mobile_No": 9441163234,
+  "Section": "A",
+  "Student_Name": "nick",
+  "Student_Roll_No": 245317733006,
+  "Resume_Link": "https://cutt.ly/1l3fg4v",
+  "first_sem_GPA": {
+    "$numberDecimal": "5"
+  },
+  "second_sem_GPA": {
+    "$numberDecimal": "5.6"
+  },
+  "third_sem_GPA": {
+    "$numberDecimal": "5"
+  },
+  "fourth_sem_GPA": {
+    "$numberDecimal": "5"
+  },
+  "fifth_sem_GPA": {
+    "$numberDecimal": "6"
+  },
+  "sixth_sem_GPA": {
+    "$numberDecimal": "7"
+  },
+  "tenth_CGPA": 5.5,
+  "Avg_present_GPA": 5.6,
+  "is_already_selected": false,
+  "languages": "python"
+},{
+  "_id": {
+    "$oid": "6033dd7aaf95412a2c9fd6f6"
+  },
+  "Branch": "CSE",
+  "Email_Id": "shravani@gmail.com",
+  "Intermediate_Percantage": 95.3,
+  "Mobile_No": 9441163233,
+  "Section": "C",
+  "Student_Name": "Shravani",
+  "Student_Roll_No": 245317733007,
+  "Resume_Link": "https://cutt.ly/1l3fg4v",
+  "first_sem_GPA": {
+    "$numberDecimal": "8.8"
+  },
+  "second_sem_GPA": {
+    "$numberDecimal": "7.8"
+  },
+  "third_sem_GPA": {
+    "$numberDecimal": "7.1"
+  },
+  "fourth_sem_GPA": {
+    "$numberDecimal": "7.9"
+  },
+  "fifth_sem_GPA": {
+    "$numberDecimal": "8.1"
+  },
+  "sixth_sem_GPA": {
+    "$numberDecimal": "7.8"
+  },
+  "tenth_CGPA": 9.5,
+  "Avg_present_GPA": 7.9,
+  "is_already_selected": false,
+  "languages": "c++"
+},{
+  "_id": {
+    "$oid": "6033dd91af95412a2c9fd6f7"
+  },
+  "Branch": "CSE",
+  "Email_Id": "raghavendra@gmail.com",
+  "Intermediate_Percantage": 85,
+  "Mobile_No": 9441163232,
+  "Section": "C",
+  "Student_Name": "raghavendra",
+  "Student_Roll_No": 245317733008,
+  "Resume_Link": "https://cutt.ly/1l3fg4v",
+  "first_sem_GPA": {
+    "$numberDecimal": "7.4"
+  },
+  "second_sem_GPA": {
+    "$numberDecimal": "7"
+  },
+  "third_sem_GPA": {
+    "$numberDecimal": "7.2"
+  },
+  "fourth_sem_GPA": {
+    "$numberDecimal": "7.1"
+  },
+  "fifth_sem_GPA": {
+    "$numberDecimal": "8"
+  },
+  "sixth_sem_GPA": {
+    "$numberDecimal": "8.4"
+  },
+  "tenth_CGPA": 9,
+  "Avg_present_GPA": 7.51,
+  "is_already_selected": false,
+  "languages": "c"
+},{
+  "_id": {
+    "$oid": "6033dd9eaf95412a2c9fd6f8"
+  },
+  "Branch": "CSE",
+  "Email_Id": "suresh@gmail.com",
+  "Intermediate_Percantage": 91.3,
+  "Mobile_No": 9441163231,
+  "Section": "B",
+  "Student_Name": "Suresh",
+  "Student_Roll_No": 245317733009,
+  "Resume_Link": "https://cutt.ly/1l3fg4v",
+  "first_sem_GPA": {
+    "$numberDecimal": "6"
+  },
+  "second_sem_GPA": {
+    "$numberDecimal": "6"
+  },
+  "third_sem_GPA": {
+    "$numberDecimal": "6"
+  },
+  "fourth_sem_GPA": {
+    "$numberDecimal": "6.7"
+  },
+  "fifth_sem_GPA": {
+    "$numberDecimal": "6"
+  },
+  "sixth_sem_GPA": {
+    "$numberDecimal": "6.1"
+  },
+  "tenth_CGPA": 8,
+  "Avg_present_GPA": 6.13,
+  "is_already_selected": true,
+  "languages": "java"
+},{
+  "_id": {
+    "$oid": "6033ddb0af95412a2c9fd6f9"
+  },
+  "Branch": "CSE",
+  "Email_Id": "raju@gmail.com",
+  "Intermediate_Percantage": 65.3,
+  "Mobile_No": 9441163230,
+  "Section": "B",
+  "Student_Name": "raju",
+  "Student_Roll_No": 245317733010,
+  "Resume_Link": "https://cutt.ly/1l3fg4v",
+  "first_sem_GPA": {
+    "$numberDecimal": "6.6"
+  },
+  "second_sem_GPA": {
+    "$numberDecimal": "6.5"
+  },
+  "third_sem_GPA": {
+    "$numberDecimal": "6.6"
+  },
+  "fourth_sem_GPA": {
+    "$numberDecimal": "6.7"
+  },
+  "fifth_sem_GPA": {
+    "$numberDecimal": "6.5"
+  },
+  "sixth_sem_GPA": {
+    "$numberDecimal": "6.6"
+  },
+  "tenth_CGPA": 6.5,
+  "Avg_present_GPA": 6.58,
+  "is_already_selected": true,
+  "languages": "javascript"
+},{
+  "_id": {
+    "$oid": "6033ddc1af95412a2c9fd6fa"
+  },
+  "Branch": "IT",
+  "Email_Id": "joe@gmail.com",
+  "Intermediate_Percantage": 92.3,
+  "Mobile_No": 9441163219,
+  "Section": "A",
+  "Student_Name": "joe",
+  "Student_Roll_No": 245317737011,
+  "Resume_Link": "https://cutt.ly/1l3fg4v",
+  "first_sem_GPA": {
+    "$numberDecimal": "8.0"
+  },
+  "second_sem_GPA": {
+    "$numberDecimal": "7.1"
+  },
+  "third_sem_GPA": {
+    "$numberDecimal": "7.0"
+  },
+  "fourth_sem_GPA": {
+    "$numberDecimal": "7.1"
+  },
+  "fifth_sem_GPA": {
+    "$numberDecimal": "6"
+  },
+  "sixth_sem_GPA": {
+    "$numberDecimal": "6.2"
+  },
+  "tenth_CGPA": 8.8,
+  "Avg_present_GPA": 6.9,
+  "is_already_selected": false,
+  "languages": "javascript"
+},{
+  "_id": {
+    "$oid": "6033dddaaf95412a2c9fd6fb"
+  },
+  "Branch": "IT",
+  "Email_Id": "vikram@gmail.com",
+  "Intermediate_Percantage": 99.3,
+  "Mobile_No": 9441163229,
+  "Section": "C",
+  "Student_Name": "vikram",
+  "Student_Roll_No": 245317737012,
+  "Resume_Link": "https://cutt.ly/1l3fg4v",
+  "first_sem_GPA": {
+    "$numberDecimal": "9"
+  },
+  "second_sem_GPA": {
+    "$numberDecimal": "9"
+  },
+  "third_sem_GPA": {
+    "$numberDecimal": "7"
+  },
+  "fourth_sem_GPA": {
+    "$numberDecimal": "9"
+  },
+  "fifth_sem_GPA": {
+    "$numberDecimal": "9"
+  },
+  "sixth_sem_GPA": {
+    "$numberDecimal": "9"
+  },
+  "tenth_CGPA": 6.8,
+  "Avg_present_GPA": 8.6,
+  "is_already_selected": false,
+  "languages": "ruby"
+},{
+  "_id": {
+    "$oid": "6033dde9af95412a2c9fd6fc"
+  },
+  "Branch": "IT",
+  "Email_Id": "pavan@gmail.com",
+  "Intermediate_Percantage": 92.3,
+  "Mobile_No": 9441163239,
+  "Section": "B",
+  "Student_Name": "pavan",
+  "Student_Roll_No": 245317737013,
+  "Resume_Link": "https://cutt.ly/1l3fg4v",
+  "first_sem_GPA": {
+    "$numberDecimal": "8.0"
+  },
+  "second_sem_GPA": {
+    "$numberDecimal": "7.1"
+  },
+  "third_sem_GPA": {
+    "$numberDecimal": "7.3"
+  },
+  "fourth_sem_GPA": {
+    "$numberDecimal": "7.1"
+  },
+  "fifth_sem_GPA": {
+    "$numberDecimal": "9"
+  },
+  "sixth_sem_GPA": {
+    "$numberDecimal": "6.2"
+  },
+  "tenth_CGPA": 6.9,
+  "Avg_present_GPA": 7.45,
+  "is_already_selected": true,
+  "languages": "python"
+},{
+  "_id": {
+    "$oid": "6033ddf5af95412a2c9fd6fd"
+  },
+  "Branch": "IT",
+  "Email_Id": "krishna@gmail.com",
+  "Intermediate_Percantage": 98,
+  "Mobile_No": 9441163249,
+  "Section": "A",
+  "Student_Name": "krishna",
+  "Student_Roll_No": 245317737015,
+  "Resume_Link": "https://cutt.ly/1l3fg4v",
+  "first_sem_GPA": {
+    "$numberDecimal": "9"
+  },
+  "second_sem_GPA": {
+    "$numberDecimal": "9"
+  },
+  "third_sem_GPA": {
+    "$numberDecimal": "9"
+  },
+  "fourth_sem_GPA": {
+    "$numberDecimal": "9"
+  },
+  "fifth_sem_GPA": {
+    "$numberDecimal": "9"
+  },
+  "sixth_sem_GPA": {
+    "$numberDecimal": "9.3"
+  },
+  "tenth_CGPA": 10,
+  "Avg_present_GPA": 9.05,
+  "is_already_selected": false,
+  "languages": "swift"
+},{
+  "_id": {
+    "$oid": "6033de02af95412a2c9fd6fe"
+  },
+  "Branch": "IT",
+  "Email_Id": "kriti@gmail.com",
+  "Intermediate_Percantage": 98.3,
+  "Mobile_No": 9441163269,
+  "Section": "C",
+  "Student_Name": "kriti",
+  "Student_Roll_No": 245317737015,
+  "Resume_Link": "https://cutt.ly/1l3fg4v",
+  "first_sem_GPA": {
+    "$numberDecimal": "8"
+  },
+  "second_sem_GPA": {
+    "$numberDecimal": "9"
+  },
+  "third_sem_GPA": {
+    "$numberDecimal": "6.6"
+  },
+  "fourth_sem_GPA": {
+    "$numberDecimal": "8.8"
+  },
+  "fifth_sem_GPA": {
+    "$numberDecimal": "6"
+  },
+  "sixth_sem_GPA": {
+    "$numberDecimal": "6.9"
+  },
+  "tenth_CGPA": 7,
+  "Avg_present_GPA": 7.55,
+  "is_already_selected": true,
+  "languages": "java"
+},{
+  "_id": {
+    "$oid": "6033de0caf95412a2c9fd6ff"
+  },
+  "Branch": "IT",
+  "Email_Id": "meghana@gmail.com",
+  "Intermediate_Percantage": 92.3,
+  "Mobile_No": 9441163279,
+  "Section": "A",
+  "Student_Name": "meghana",
+  "Student_Roll_No": 245317737020,
+  "Resume_Link": "https://cutt.ly/1l3fg4v",
+  "first_sem_GPA": {
+    "$numberDecimal": "8"
+  },
+  "second_sem_GPA": {
+    "$numberDecimal": "7"
+  },
+  "third_sem_GPA": {
+    "$numberDecimal": "7"
+  },
+  "fourth_sem_GPA": {
+    "$numberDecimal": "9"
+  },
+  "fifth_sem_GPA": {
+    "$numberDecimal": "9"
+  },
+  "sixth_sem_GPA": {
+    "$numberDecimal": "6"
+  },
+  "tenth_CGPA": 10,
+  "Avg_present_GPA": 7.66,
+  "is_already_selected": true,
+  "languages": "c++"
+},{
+  "_id": {
+    "$oid": "6033de1caf95412a2c9fd700"
+  },
+  "Branch": "IT",
+  "Email_Id": "srikar@gmail.com",
+  "Intermediate_Percantage": 92.3,
+  "Mobile_No": 9411163219,
+  "Section": "C",
+  "Student_Name": "srikar",
+  "Student_Roll_No": 245317737021,
+  "Resume_Link": "https://cutt.ly/1l3fg4v",
+  "first_sem_GPA": {
+    "$numberDecimal": "9"
+  },
+  "second_sem_GPA": {
+    "$numberDecimal": "7.1"
+  },
+  "third_sem_GPA": {
+    "$numberDecimal": "7.0"
+  },
+  "fourth_sem_GPA": {
+    "$numberDecimal": "7.1"
+  },
+  "fifth_sem_GPA": {
+    "$numberDecimal": "6"
+  },
+  "sixth_sem_GPA": {
+    "$numberDecimal": "8.2"
+  },
+  "tenth_CGPA": 6,
+  "Avg_present_GPA": 7.4,
+  "is_already_selected": false,
+  "languages": "c++"
+},{
+  "_id": {
+    "$oid": "6033de5aaf95412a2c9fd701"
+  },
+  "Branch": "IT",
+  "Email_Id": "ajay@gmail.com",
+  "Intermediate_Percantage": 92.3,
+  "Mobile_No": 9441069219,
+  "Section": "B",
+  "Student_Name": "ajay",
+  "Student_Roll_No": 245317737025,
+  "Resume_Link": "https://cutt.ly/1l3fg4v",
+  "first_sem_GPA": {
+    "$numberDecimal": "9"
+  },
+  "second_sem_GPA": {
+    "$numberDecimal": "7"
+  },
+  "third_sem_GPA": {
+    "$numberDecimal": "7.0"
+  },
+  "fourth_sem_GPA": {
+    "$numberDecimal": "6.1"
+  },
+  "fifth_sem_GPA": {
+    "$numberDecimal": "9"
+  },
+  "sixth_sem_GPA": {
+    "$numberDecimal": "6.2"
+  },
+  "tenth_CGPA": 7.9,
+  "Avg_present_GPA": 7.38,
+  "is_already_selected": true,
+  "languages": "java"
+},{
+  "_id": {
+    "$oid": "6033de6caf95412a2c9fd702"
+  },
+  "Branch": "IT",
+  "Email_Id": "saleem@gmail.com",
+  "Intermediate_Percantage": 70,
+  "Mobile_No": 9441167819,
+  "Section": "A",
+  "Student_Name": "saleem",
+  "Student_Roll_No": 245317737028,
+  "Resume_Link": "https://cutt.ly/1l3fg4v",
+  "first_sem_GPA": {
+    "$numberDecimal": "8.9"
+  },
+  "second_sem_GPA": {
+    "$numberDecimal": "7.9"
+  },
+  "third_sem_GPA": {
+    "$numberDecimal": "7.9"
+  },
+  "fourth_sem_GPA": {
+    "$numberDecimal": "7.5"
+  },
+  "fifth_sem_GPA": {
+    "$numberDecimal": "9"
+  },
+  "sixth_sem_GPA": {
+    "$numberDecimal": "6.2"
+  },
+  "tenth_CGPA": 8.8,
+  "Avg_present_GPA": 7.9,
+  "is_already_selected": false,
+  "languages": "java"
+},{
+  "_id": {
+    "$oid": "603a13f4e9d1d625c4f1f16e"
+  },
+  "Branch": "IT",
+  "Email_Id": "doshanth@gmail.com",
+  "Intermediate_Percantage": 75,
+  "Mobile_No": 9441167815,
+  "Section": "A",
+  "Student_Name": "Doshanth",
+  "Student_Roll_No": 245317737308,
+  "Resume_Link": "https://cutt.ly/1l3fg4v",
+  "first_sem_GPA": {
+    "$numberDecimal": "8.2"
+  },
+  "second_sem_GPA": {
+    "$numberDecimal": "7.4"
+  },
+  "third_sem_GPA": {
+    "$numberDecimal": "6.9"
+  },
+  "fourth_sem_GPA": {
+    "$numberDecimal": "9"
+  },
+  "fifth_sem_GPA": {
+    "$numberDecimal": "9"
+  },
+  "sixth_sem_GPA": {
+    "$numberDecimal": "6.2"
+  },
+  "tenth_CGPA": 8.8,
+  "Avg_present_GPA": 9.2,
+  "is_already_selected": false,
+  "languages": "java"
+}]

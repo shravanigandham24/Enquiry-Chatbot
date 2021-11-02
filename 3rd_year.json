@@ -1,0 +1,281 @@
+[{
+  "_id": {
+    "$oid": "602d7e71f8ae6e237c09bf44"
+  },
+  "Branch": "CSE",
+  "Email_Id": "sankethkanugu@gmail.com",
+  "Intermediate_Percantage": 93.3,
+  "Mobile_No": 9440698202,
+  "Section": "B",
+  "Student_Name": "Sanketh",
+  "Student_Roll_No": 245318733087,
+  "Resume_Link": "https://cutt.ly/1l3fg4v",
+  "tenth_CGPA": 8.7,
+  "Avg_present_GPA": 8.05,
+  "is_already_selected": false,
+  "languages": "c++",
+  "first_sem_GPA": 8.7,
+  "fourth_sem_GPA": 7.7,
+  "second_sem_GPA": 7.9,
+  "third_sem_GPA": 7.9
+},{
+  "_id": {
+    "$oid": "602f9b4ff87be45310060690"
+  },
+  "Branch": "CSE",
+  "Email_Id": "saakethkanugu@gmail.com",
+  "Intermediate_Percantage": 80,
+  "Mobile_No": 9440698202,
+  "Section": "B",
+  "Student_Name": "Saaketh",
+  "Student_Roll_No": 245318733088,
+  "Resume_Link": "https://cutt.ly/1l3fg4v",
+  "first_sem_GPA": 8,
+  "second_sem_GPA": 7,
+  "third_sem_GPA": 7,
+  "fourth_sem_GPA": 7,
+  "tenth_CGPA": 7.8,
+  "Avg_present_GPA": 7.25,
+  "is_already_selected": true,
+  "languages": "python"
+},{
+  "_id": {
+    "$oid": "6033d9f0af95412a2c9fd6e2"
+  },
+  "Branch": "CSE",
+  "Email_Id": "swathi@gmail.com",
+  "Intermediate_Percantage": 92.6,
+  "Mobile_No": 147258369,
+  "Section": "B",
+  "Student_Name": "Swathi",
+  "Student_Roll_No": 24531733001,
+  "Resume_Link": "https://cutt.ly/1l3fg4v",
+  "first_sem_GPA": 7.8,
+  "second_sem_GPA": 8.2,
+  "third_sem_GPA": 8.5,
+  "fourth_sem_GPA": 7.1,
+  "tenth_CGPA": 8.3,
+  "Avg_present_GPA": 7.9,
+  "is_already_selected": true,
+  "languages": "c"
+},{
+  "_id": {
+    "$oid": "6033da61af95412a2c9fd6e3"
+  },
+  "Branch": "IT",
+  "Email_Id": "murali@gmail.com",
+  "Intermediate_Percantage": 90.8,
+  "Mobile_No": 5544882564,
+  "Section": "B",
+  "Student_Name": "Murali",
+  "Student_Roll_No": 245318737049,
+  "Resume_Link": "https://cutt.ly/1l3fg4v",
+  "first_sem_GPA": 7.7,
+  "second_sem_GPA": 6.9,
+  "third_sem_GPA": 7.6,
+  "fourth_sem_GPA": 6.8,
+  "tenth_CGPA": 8.2,
+  "Avg_present_GPA": 7.25,
+  "is_already_selected": false,
+  "languages": "java"
+},{
+  "_id": {
+    "$oid": "6033da7faf95412a2c9fd6e4"
+  },
+  "Branch": "CSE",
+  "Email_Id": "vamshi@gmail.com",
+  "Intermediate_Percantage": 72.6,
+  "Mobile_No": 5678114514,
+  "Section": "C",
+  "Student_Name": "Vamshi",
+  "Student_Roll_No": 245318733068,
+  "Resume_Link": "https://cutt.ly/1l3fg4v",
+  "first_sem_GPA": 8,
+  "second_sem_GPA": 7,
+  "third_sem_GPA": 6,
+  "fourth_sem_GPA": 7.3,
+  "tenth_CGPA": 8.5,
+  "Avg_present_GPA": 6.82,
+  "is_already_selected": false,
+  "languages": "java"
+},{
+  "_id": {
+    "$oid": "6033db0aaf95412a2c9fd6e5"
+  },
+  "Branch": "CSE",
+  "Email_Id": "shiva@gmail.com",
+  "Intermediate_Percantage": 75.8,
+  "Mobile_No": 2258549863,
+  "Section": "C",
+  "Student_Name": "Shiva",
+  "Student_Roll_No": 245318733042,
+  "Resume_Link": "https://cutt.ly/1l3fg4v",
+  "first_sem_GPA": 8.2,
+  "second_sem_GPA": 7.9,
+  "third_sem_GPA": 6.9,
+  "fourth_sem_GPA": 7.5,
+  "tenth_CGPA": 7.8,
+  "Avg_present_GPA": 7.62,
+  "is_already_selected": false,
+  "languages": "c"
+},{
+  "_id": {
+    "$oid": "6033db2aaf95412a2c9fd6e6"
+  },
+  "Branch": "CSE",
+  "Email_Id": "ketankoushik@gmail.com",
+  "Intermediate_Percantage": 78.9,
+  "Mobile_No": 9982476024,
+  "Section": "C",
+  "Student_Name": "KetanKoushik",
+  "Student_Roll_No": 245318733074,
+  "Resume_Link": "https://cutt.ly/1l3fg4v",
+  "first_sem_GPA": 7.6,
+  "second_sem_GPA": 7.2,
+  "third_sem_GPA": 6.6,
+  "fourth_sem_GPA": 8.2,
+  "tenth_CGPA": 8.2,
+  "Avg_present_GPA": 7.4,
+  "is_already_selected": true,
+  "languages": "python"
+},{
+  "_id": {
+    "$oid": "6033db36af95412a2c9fd6e7"
+  },
+  "Branch": "IT",
+  "Email_Id": "saradhi@gmail.com",
+  "Intermediate_Percantage": 80.6,
+  "Mobile_No": 8576924135,
+  "Section": "A",
+  "Student_Name": "Saradhi",
+  "Student_Roll_No": 245318737072,
+  "Resume_Link": "https://cutt.ly/1l3fg4v",
+  "first_sem_GPA": 9.2,
+  "second_sem_GPA": 8.3,
+  "third_sem_GPA": 7.5,
+  "fourth_sem_GPA": 7.7,
+  "tenth_CGPA": 7.5,
+  "Avg_present_GPA": 8.17,
+  "is_already_selected": false,
+  "languages": "c++"
+},{
+  "_id": {
+    "$oid": "6033db9faf95412a2c9fd6e8"
+  },
+  "Branch": "CSE",
+  "Email_Id": "shabarinathmenon@gmail.com",
+  "Intermediate_Percantage": 95.6,
+  "Mobile_No": 4825967025,
+  "Section": "A",
+  "Student_Name": "ShabariNath",
+  "Student_Roll_No": 245318733079,
+  "Resume_Link": "https://cutt.ly/1l3fg4v",
+  "first_sem_GPA": 8.3,
+  "second_sem_GPA": 7.9,
+  "third_sem_GPA": 8.6,
+  "fourth_sem_GPA": 7.6,
+  "tenth_CGPA": 9.1,
+  "Avg_present_GPA": 8.1,
+  "is_already_selected": true,
+  "languages": "c++"
+},{
+  "_id": {
+    "$oid": "6033dbb7af95412a2c9fd6e9"
+  },
+  "Branch": "CSE",
+  "Email_Id": "dharani@gmail.com",
+  "Intermediate_Percantage": 86.2,
+  "Mobile_No": 7824698502,
+  "Section": "B",
+  "Student_Name": "Dharani",
+  "Student_Roll_No": 245318733089,
+  "Resume_Link": "https://cutt.ly/1l3fg4v",
+  "first_sem_GPA": 8.3,
+  "second_sem_GPA": 6.4,
+  "third_sem_GPA": 6.8,
+  "fourth_sem_GPA": 7.2,
+  "tenth_CGPA": 9.5,
+  "Avg_present_GPA": 7.1,
+  "is_already_selected": false,
+  "languages": "c++"
+},{
+  "_id": {
+    "$oid": "6033dbcfaf95412a2c9fd6ea"
+  },
+  "Branch": "CSE",
+  "Email_Id": "nithya@gmail.com",
+  "Intermediate_Percantage": 95.2,
+  "Mobile_No": 4587215963,
+  "Section": "B",
+  "Student_Name": "Nithya",
+  "Student_Roll_No": 245318733083,
+  "Resume_Link": "https://cutt.ly/1l3fg4v",
+  "first_sem_GPA": 7.4,
+  "second_sem_GPA": 6.9,
+  "third_sem_GPA": 8.4,
+  "fourth_sem_GPA": 8.2,
+  "tenth_CGPA": 8.9,
+  "Avg_present_GPA": 7.7,
+  "is_already_selected": true,
+  "languages": "python"
+},{
+  "_id": {
+    "$oid": "6033dbe6af95412a2c9fd6eb"
+  },
+  "Branch": "IT",
+  "Email_Id": "anurag@gmail.com",
+  "Intermediate_Percantage": 86.7,
+  "Mobile_No": 2589473658,
+  "Section": "A",
+  "Student_Name": "Anurag",
+  "Student_Roll_No": 245318737092,
+  "Resume_Link": "https://cutt.ly/1l3fg4v",
+  "first_sem_GPA": 7.4,
+  "second_sem_GPA": 7.5,
+  "third_sem_GPA": 8.2,
+  "fourth_sem_GPA": 8.5,
+  "tenth_CGPA": 7.8,
+  "Avg_present_GPA": 7.9,
+  "is_already_selected": false,
+  "languages": "c"
+},{
+  "_id": {
+    "$oid": "6033dbfeaf95412a2c9fd6ec"
+  },
+  "Branch": "IT",
+  "Email_Id": "pranay@gmail.com",
+  "Intermediate_Percantage": 94.6,
+  "Mobile_No": 3571965482,
+  "Section": "A",
+  "Student_Name": "Pranay",
+  "Student_Roll_No": 245318733056,
+  "Resume_Link": "https://cutt.ly/1l3fg4v",
+  "first_sem_GPA": 8.9,
+  "second_sem_GPA": 9.2,
+  "third_sem_GPA": 7.3,
+  "fourth_sem_GPA": 7.5,
+  "tenth_CGPA": 9.3,
+  "Avg_present_GPA": 8.2,
+  "is_already_selected": true,
+  "languages": "python"
+},{
+  "_id": {
+    "$oid": "6033dc18af95412a2c9fd6ed"
+  },
+  "Branch": "IT",
+  "Email_Id": "nikhil@gmail.com",
+  "Intermediate_Percantage": 84.3,
+  "Mobile_No": 8759648244,
+  "Section": "B",
+  "Student_Name": "Nikhil",
+  "Student_Roll_No": 245318737102,
+  "Resume_Link": "https://cutt.ly/1l3fg4v",
+  "first_sem_GPA": 7.2,
+  "second_sem_GPA": 7.6,
+  "third_sem_GPA": 8.4,
+  "fourth_sem_GPA": 6.5,
+  "tenth_CGPA": 8.4,
+  "Avg_present_GPA": 7.4,
+  "is_already_selected": false,
+  "languages": "c++"
+}]
